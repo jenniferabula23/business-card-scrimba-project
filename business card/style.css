@@ -1,0 +1,30 @@
+ body{
+    margin: 30px;
+    font-family: verdana;
+     
+ }
+ .logo-pic{
+    width: 150px;
+   
+ }
+ .card{
+   justify-content: space-around;
+    padding: 20px;
+    display: flex;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    color: #2b2839;
+    background-color:  #ddebf8;
+    border-bottom: #d8cefe solid 10px;
+    border-radius: 20px;
+    box-shadow: 7px 7px;
+  
+ }
+
+ .shift{
+   padding-top: 30px;
+ }
+ 
+ 
